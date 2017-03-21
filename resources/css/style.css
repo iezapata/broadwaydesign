@@ -35,3 +35,11 @@ h2{
   font-family: Helvetica;
   font-size:14px;
 }
+
+.designed{
+  background-image:url("../images/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color:white;
+}
