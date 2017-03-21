@@ -2,8 +2,9 @@ body{
   text-align:center;
 }
 
-div.header{
+.header{
     background-image:url("../images/the-flatiron-building.png");
+background-size: cover;
 }
 h1{
   font-family: Helvetica;
@@ -12,8 +13,25 @@ h1{
   color:white;
 }
 
-h4.navigation{
+.navigation{
 font-family:Helvetica;
 font-size: 18px;
 color:white;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.comment{
+  font-family: Helvetica;
+  font-size:14px;
 }
